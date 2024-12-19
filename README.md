@@ -1,4 +1,4 @@
-# nn_from_scratch
+# DeepNeuralNetwork
 
 This repo is a collection of neural network implementations from scratch in Python. The purpose of this repo is to understand the inner workings of neural networks and to implement them from scratch.
 
